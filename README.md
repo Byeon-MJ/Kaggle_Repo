@@ -1,2 +1,1 @@
-# Kaggle_Repo
-Kaggle Competition Ropository
+# Kaggle Competition Ropository
